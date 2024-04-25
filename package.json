@@ -1,0 +1,19 @@
+{
+    "name": "create-neko-server-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Neko Gong",
+    "license": "MIT",
+    "dependencies": {
+        "glob": "^10.3.12",
+        "kolorist": "^1.8.0",
+        "minimist": "^1.2.8",
+        "prompts": "^2.4.2"
+    }
+}
